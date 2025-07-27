@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hey, I'm Farel 👋  
+A.K.A **hiragaze** — my online nickname!
 
-<!--
-**hiragaze/hiragaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Diploma (Associate Degree) student majoring in Information Technology at Universitas Sebelas Maret (UNS).
 
-Here are some ideas to get you started:
+Right now, I'm still exploring things. I’m mainly into:
+- Backend development (Python, FastAPI, REST APIs)
+- Cybersecurity (still learning, trying out some CTFs)
+- Data science basics
+- Competitive Programming (OI and CPC style)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GitHub to learn, break things, and hopefully build something cool.  
+
+---
+
+> “Still figuring things out, but always moving forward.”
+
+📍 Based in Central Java, Indonesia  
+📫 Let's connect: 
+[LinkedIn](https://www.linkedin.com/in/hiragaze)
+[instagram](https://www.instagram.com/hiragaze)
